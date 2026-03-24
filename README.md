@@ -21,8 +21,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  🎬  AI Visual Specialist based in Mumbai, India                 ║
-║  🧠  1.5+ years deep in Generative AI & VFX production          ║
+║  🎬  Generative AI Specialist based in Mumbai, India                 ║
+║  🧠  2.5 + years deep in Generative AI & VFX production          ║
 ║  🎞️  Film credit: AI VFX on feature film "Romeo"               ║
 ║       → Used OpenPose + ControlNet for on-screen integration     ║
 ║  🏗️  Founder of @SumitifyX — AI studio for creatives           ║
