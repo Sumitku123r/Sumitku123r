@@ -58,8 +58,6 @@ I don't just use AI tools — I **architect workflows** that turn prompts into p
 ### 🎨 3D & Post Production
 ![Blender](https://img.shields.io/badge/Blender-Proficient-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-Proficient-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-Advanced-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
-
 ---
 
 ## 🎯 WHAT I BUILD
