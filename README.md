@@ -12,7 +12,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-@SumitifyX-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SumitifyX)
 [![Instagram](https://img.shields.io/badge/Instagram-@sumitifyx-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sumitifyx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit_Ram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-sumit-1162a21b1)
-[![Twitter](https://img.shields.io/badge/Twitter-@SumitifyX-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SumitifyX)
 
 </div>
 
